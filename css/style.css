@@ -18,3 +18,8 @@ body {
 }
 
 /* Write all remaining styles here */
+
+h1 {
+  font-size: 150%
+}
+}
